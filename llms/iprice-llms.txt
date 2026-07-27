@@ -1,0 +1,17 @@
+# iPrice Group
+
+> iPrice Group is a Southeast Asian e-commerce aggregator and price-comparison platform headquartered in Kuala Lumpur, Malaysia. It aggregates billions of product offers and thousands of coupons from more than a thousand retail partners across seven markets, helping shoppers compare prices and find deals. iPrice does not publish a public developer API; this profile is a company record in the API Evangelist network.
+
+## Company
+- [iPrice Group website](https://ipricegroup.com): Corporate site describing the price-comparison and coupon platform.
+- [Careers](https://ipricegroup.com/career.html): Open roles across seven Southeast Asian markets.
+- [Blog (Medium)](https://ipricegroup.medium.com/): Company engineering and e-commerce insights blog.
+- [GitHub (iPriceVentures)](https://github.com/iPriceVentures): Engineering organization; open-source tooling including an October CMS RESTful API generator plugin.
+- [LinkedIn](https://www.linkedin.com/company/ipricegroup): Company profile.
+
+## Markets
+Malaysia, Indonesia, Singapore, Thailand, Vietnam, Philippines, Hong Kong.
+
+## Notes
+- No public consumer or partner API, developer portal, or OpenAPI is published as of this profile.
+- Backed by 500 Global (Asia Venture Group portfolio company).
